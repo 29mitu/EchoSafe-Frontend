@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EchoSafeFrontend</string>
+    <string name="echoSafeStyled"><![CDATA[ECHO<S><big>S</big></S>afe]]></string>
+</resources>
