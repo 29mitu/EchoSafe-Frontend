@@ -23,7 +23,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Navigate to the next activity (replace MainActivity with your target activity)
-                Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                Intent intent = new Intent(LoginActivity.this, MainFeaturesActivity.class);
                 startActivity(intent);
                 finish();
             }
